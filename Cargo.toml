@@ -1,12 +1,12 @@
 [package]
 
-name = "hello_world"
-version = "0.0.1"
+name = "thumbnail_extractor"
+version = "0.1.0"
 authors = [ "Roman A. Taycher <rtaycher1987@gmail.com>" ]
 
 [[bin]]
 
-name = "hello_world"
+name = "thumbnail_extractor"
 
 [dependencies]
 zip = "0.1"
